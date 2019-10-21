@@ -109,7 +109,7 @@ urllib3==1.21.1
 usb-creator==0.3.0
 virtualenv==15.0.1
 websocket-client==0.44.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 xdiagnose==3.8.4.1
 xkit==0.0.0
 xlib==0.21
