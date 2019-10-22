@@ -47,7 +47,7 @@ padme==1.1.1
 pandas==0.21.0
 patsy==0.4.1
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==6.2.0
 plainbox==0.25
 protobuf==3.4.0
 ptyprocess==0.5
