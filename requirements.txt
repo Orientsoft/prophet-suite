@@ -11,7 +11,7 @@ chardet==3.0.4
 checkbox-support==0.22
 cli-pipeline==1.4.23
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.10.0
 Cython==0.27.3
 defer==1.0.6
