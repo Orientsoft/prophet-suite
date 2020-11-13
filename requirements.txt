@@ -85,7 +85,7 @@ ssh-import-id==5.5
 statsmodels==0.8.0
 system-service==0.3
 tabulate==0.8.1
-tensorflow-gpu==1.3.0
+tensorflow-gpu==2.3.1
 tensorflow-tensorboard==0.1.8
 torch==0.1.12.post2
 tqdm==4.15.0
