@@ -29,7 +29,7 @@ html5lib==0.9999999
 httplib2==0.9.1
 idna==2.5
 ipaddress==1.0.18
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 Keras==2.1.5
 kubernetes==4.0.0
